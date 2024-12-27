@@ -7,7 +7,7 @@ by IOIO72 aka Tamio Patrick Honma (https://honma.de)
 
 ## Description
 
-OpenSCAD customizer to generate very small shelfs for the [Multipoint](https://www.multiboard.io/parts-library/multipoint/multipoints) Rails system and Pegboard Clicks from the [Multiboard](https://www.multiboard.io/) project.
+OpenSCAD customizer to generate very small shelves for the [Multipoint](https://www.multiboard.io/parts-library/multipoint/multipoints) Rails system and Pegboard Clicks from the [Multiboard](https://www.multiboard.io/) project.
 
 
 ## Contribution & Remixes
