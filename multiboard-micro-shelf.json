@@ -1,0 +1,41 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Lego Figure (Pegboard Click)": {
+            "$fn": "200",
+            "animate": "false",
+            "click_position": "17",
+            "mount_type": "click",
+            "nose": "80",
+            "preview_sample_multiboard": "true",
+            "shelf_depth": "8.0999999999999996",
+            "shelf_height": "4.5999999999999996",
+            "shelf_width": "15.800000000000001",
+            "wall_thickness": "1.8"
+        },
+        "Lego Figure (Rail Slot)": {
+            "$fn": "200",
+            "animate": "false",
+            "click_position": "17",
+            "mount_type": "rail",
+            "nose": "80",
+            "preview_sample_multiboard": "true",
+            "shelf_depth": "8.0999999999999996",
+            "shelf_height": "4.5999999999999996",
+            "shelf_width": "15.800000000000001",
+            "wall_thickness": "1.8"
+        },
+        "Lemming (Pegboard Click)": {
+            "$fn": "200",
+            "animate": "false",
+            "click_position": "17",
+            "mount_type": "click",
+            "nose": "80",
+            "preview_sample_multiboard": "true",
+            "shelf_depth": "9",
+            "shelf_height": "6",
+            "shelf_width": "15.800000000000001",
+            "wall_thickness": "1.8"
+        }
+    }
+}
