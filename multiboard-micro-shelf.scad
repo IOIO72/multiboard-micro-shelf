@@ -38,7 +38,7 @@ click_position = 17; // [-17 : 17]
 
 /* Calculations */
 
-animated_click_position = 16 * sin($t*360); // Animation
+animated_click_position = 17 * sin($t*360); // Animation
 calculated_click_position = $preview && animate ? animated_click_position : click_position;
 
 nose_offset = nose * wall_thickness / 2 / 100;
