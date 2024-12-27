@@ -9,7 +9,6 @@ animate = false;
 
 /* [Hidden] */
 
-nothing=0.01; // z-fighting fix
 multiboard_grid_offset = 25;
 multiboard_peghole_width = 14.64;
 click_height = 36.8;
