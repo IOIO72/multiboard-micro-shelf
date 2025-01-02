@@ -4,10 +4,16 @@ by IOIO72 aka Tamio Patrick Honma (https://honma.de)
 
 Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
+
 ## Description
 
 This is a collection of micro shelves in different sizes for [Multiboard](https://www.multiboard.io/) Pegboard or [Multipoint](https://www.multiboard.io/parts-library/multipoint/multipoints).
 
+Included shelves:
+
+* Lego Figure
+* [Lemmings](https://makerworld.com/de/models/532452) Figure
+* _You like other measurements? See section Contribution for more information_
 
 
 ## Contribution
