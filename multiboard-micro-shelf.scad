@@ -16,7 +16,7 @@ click_mount_depth = 4;
 multipoint_rail_max_width = 18.6;
 multipoint_rail_max_depth = 2.2;
 multipoint_rail_offset = -6; // Adjust the holder position to match the rail slot
-shelf_offset = 1.9; // Adjust shelf positioning on mount
+shelf_offset = 0.4; // Adjust shelf positioning on mount
 
 
 /* [Shelf] */
@@ -89,7 +89,7 @@ module railSlot() {
 }
 
 module holder() {
-  translate([-shelf_height + shelf_offset, -shelf_width / 2, 0]) {
+  translate([-shelf_height / 2 - shelf_offset, -shelf_width / 2, 0]) {
     cube([wall_thickness, shelf_width, shelf_depth + click_mount_depth]);
     translate([-shelf_height, 0, shelf_depth + click_mount_depth]) {
       cube([shelf_height + wall_thickness, shelf_width, wall_thickness]);
