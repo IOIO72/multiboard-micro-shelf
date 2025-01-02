@@ -48,6 +48,30 @@
             "shelf_height": "7.5",
             "shelf_width": "15.800000000000001",
             "wall_thickness": "1.8"
+        },
+        "Lemming upper (Pegboard Click)": {
+            "$fn": "200",
+            "animate": "false",
+            "click_position": "-10",
+            "mount_type": "click",
+            "nose": "80",
+            "preview_sample_multiboard": "true",
+            "shelf_depth": "9",
+            "shelf_height": "7.5",
+            "shelf_width": "15.800000000000001",
+            "wall_thickness": "1.8"
+        },
+        "Lemming upper (Rail Slot)": {
+            "$fn": "200",
+            "animate": "false",
+            "click_position": "-10",
+            "mount_type": "rail",
+            "nose": "80",
+            "preview_sample_multiboard": "true",
+            "shelf_depth": "9",
+            "shelf_height": "7.5",
+            "shelf_width": "15.800000000000001",
+            "wall_thickness": "1.8"
         }
     }
 }
