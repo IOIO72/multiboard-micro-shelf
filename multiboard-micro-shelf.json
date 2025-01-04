@@ -1,77 +1,101 @@
 {
-    "fileFormatVersion": "1",
-    "parameterSets": {
-        "Lego Figure (Pegboard Click)": {
-            "$fn": "200",
-            "animate": "false",
-            "click_position": "17",
-            "mount_type": "click",
-            "nose": "80",
-            "preview_sample_multiboard": "true",
-            "shelf_depth": "8.0999999999999996",
-            "shelf_height": "4.5999999999999996",
-            "shelf_width": "15.800000000000001",
-            "wall_thickness": "1.8"
-        },
-        "Lego Figure (Rail Slot)": {
-            "$fn": "200",
-            "animate": "false",
-            "click_position": "17",
-            "mount_type": "rail",
-            "nose": "80",
-            "preview_sample_multiboard": "true",
-            "shelf_depth": "8.0999999999999996",
-            "shelf_height": "4.5999999999999996",
-            "shelf_width": "15.800000000000001",
-            "wall_thickness": "1.8"
-        },
-        "Lemming (Pegboard Click)": {
-            "$fn": "200",
-            "animate": "false",
-            "click_position": "17",
-            "mount_type": "click",
-            "nose": "80",
-            "preview_sample_multiboard": "true",
-            "shelf_depth": "9",
-            "shelf_height": "7.5",
-            "shelf_width": "15.800000000000001",
-            "wall_thickness": "1.8"
-        },
-        "Lemming (Rail Slot)": {
-            "$fn": "200",
-            "animate": "false",
-            "click_position": "17",
-            "mount_type": "rail",
-            "nose": "80",
-            "preview_sample_multiboard": "true",
-            "shelf_depth": "9",
-            "shelf_height": "7.5",
-            "shelf_width": "15.800000000000001",
-            "wall_thickness": "1.8"
-        },
-        "Lemming upper (Pegboard Click)": {
-            "$fn": "200",
-            "animate": "false",
-            "click_position": "-10",
-            "mount_type": "click",
-            "nose": "80",
-            "preview_sample_multiboard": "true",
-            "shelf_depth": "9",
-            "shelf_height": "7.5",
-            "shelf_width": "15.800000000000001",
-            "wall_thickness": "1.8"
-        },
-        "Lemming upper (Rail Slot)": {
-            "$fn": "200",
-            "animate": "false",
-            "click_position": "-10",
-            "mount_type": "rail",
-            "nose": "80",
-            "preview_sample_multiboard": "true",
-            "shelf_depth": "9",
-            "shelf_height": "7.5",
-            "shelf_width": "15.800000000000001",
-            "wall_thickness": "1.8"
-        }
+  "fileFormatVersion": "1",
+  "parameterSets": {
+    "Lego Figure (Pegboard Click)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "17",
+      "mount_type": "click",
+      "nose": "100",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "8.000000000000001",
+      "shelf_height": "5.100000000000001",
+      "shelf_width": "15.000000000000001",
+      "wall_thickness": "1.8"
+    },
+    "Lego Figure (Rail Slot)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "17",
+      "mount_type": "rail",
+      "nose": "100",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "8.000000000000001",
+      "shelf_height": "5.100000000000001",
+      "shelf_width": "15.000000000000001",
+      "wall_thickness": "1.8"
+    },
+    "Lego Figure upper (Pegboard Click)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "-13",
+      "mount_type": "click",
+      "nose": "100",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "8.000000000000001",
+      "shelf_height": "5.100000000000001",
+      "shelf_width": "15.000000000000001",
+      "wall_thickness": "1.8"
+    },
+    "Lego Figure upper (Rail Slot)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "-13",
+      "mount_type": "rail",
+      "nose": "100",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "8.000000000000001",
+      "shelf_height": "5.100000000000001",
+      "shelf_width": "15.000000000000001",
+      "wall_thickness": "1.8"
+    },
+    "Lemming (Pegboard Click)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "17",
+      "mount_type": "click",
+      "nose": "80",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "9",
+      "shelf_height": "7.5",
+      "shelf_width": "15.800000000000001",
+      "wall_thickness": "1.8"
+    },
+    "Lemming (Rail Slot)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "17",
+      "mount_type": "rail",
+      "nose": "80",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "9",
+      "shelf_height": "7.5",
+      "shelf_width": "15.800000000000001",
+      "wall_thickness": "1.8"
+    },
+    "Lemming upper (Pegboard Click)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "-10",
+      "mount_type": "click",
+      "nose": "80",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "9",
+      "shelf_height": "7.5",
+      "shelf_width": "15.800000000000001",
+      "wall_thickness": "1.8"
+    },
+    "Lemming upper (Rail Slot)": {
+      "$fn": "200",
+      "animate": "false",
+      "click_position": "-10",
+      "mount_type": "rail",
+      "nose": "80",
+      "preview_sample_multiboard": "true",
+      "shelf_depth": "9",
+      "shelf_height": "7.5",
+      "shelf_width": "15.800000000000001",
+      "wall_thickness": "1.8"
     }
+  }
 }
